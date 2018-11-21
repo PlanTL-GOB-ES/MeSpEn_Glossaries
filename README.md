@@ -7,7 +7,8 @@ performance of MT systems.
 
 This repository contains forty-six bilingual medical glossaries for various language pairs generated from free online medical 
 glossaries and dictionaries made by professional translators.  
-   
+
+
 | Language pairs | Num. entries | Language pairs | Num. entries | Language pairs | Num. entries |
 | -------------- | ------------ | -------------- | ------------ | -------------- | ------------ |
 | Arabic-English   | 9844 | English-Hindi | 124 | French-German | 169  |
@@ -28,6 +29,11 @@ glossaries and dictionaries made by professional translators.
 | English-Greek | 2640 | English-Turkish | 7717  |
 
 Table 1: Number of entries in MeSpEn_Glossaries.
+
+
+## Digital Object Identifier (DOI) and access to source files
+
+https://doi.org/10.5281/zenodo.1493393
 
 ## Repository Structure
 
