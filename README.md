@@ -5,7 +5,7 @@
 Hand crafted glossaries are a particularly valuable resource for the medical translator community and have shown to boost
 performance of MT systems.
 
-This repository contains forty-six bilingual glossaries for various language pairs generated from free online medical 
+This repository contains forty-six bilingual medical glossaries for various language pairs generated from free online medical 
 glossaries and dictionaries made by professional translators.  
    
 | Language pairs | Num. entries | Language pairs | Num. entries | Language pairs | Num. entries |
