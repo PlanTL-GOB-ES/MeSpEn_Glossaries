@@ -31,24 +31,15 @@ glossaries and dictionaries made by professional translators.
 Table 1: Number of entries in MeSpEn_Glossaries.
 
 
+## Format
+
+Glossaries are encoded in standard tab-separated values (tsv) format.
+
+
 ## Digital Object Identifier (DOI) and access to source files
 
 https://doi.org/10.5281/zenodo.1493393
 
-## Repository Structure
-
-<pre>
-glossaries/
-The bilingual glossaries.
-
-README.md/
-This file.
-</pre>
-
-
-## Format
-
-Glossaries are encoded in standard tab-separated values (tsv) format.
 
 ## Contact
 
