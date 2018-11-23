@@ -1,5 +1,10 @@
 # MeSpEn_Glossaries: Medical Glossaries
 
+## Digital Object Identifier (DOI) and access to source files
+
+https://doi.org/10.5281/zenodo.1493393
+
+
 ## Introduction
 
 Hand crafted glossaries are a particularly valuable resource for the medical translator community and have shown to boost
@@ -34,11 +39,6 @@ Table 1: Number of entries in MeSpEn_Glossaries.
 ## Format
 
 Glossaries are encoded in standard tab-separated values (tsv) format.
-
-
-## Digital Object Identifier (DOI) and access to source files
-
-https://doi.org/10.5281/zenodo.1493393
 
 
 ## Contact
